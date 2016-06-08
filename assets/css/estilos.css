@@ -1,0 +1,143 @@
+#barraCookies{
+    background-color: #F8F8F8;
+     min-height:76px;
+}
+#cookies{
+    margin-bottom:150px;
+}
+
+#tituloMenu h1{
+    float:left;
+    padding-left: 5px
+}
+#tituloMenu a{
+    margin-left: 7px;
+    margin-top: 21px;
+    
+}
+#tituloPerfil h1{
+    float:left;
+    padding-left: 5px
+}
+#tituloPerfil a{
+    margin-left: 7px;
+    margin-top: 21px;
+}
+
+.separaBuscadores{
+    margin-top: 14px;
+}
+
+
+
+#recuperaPass{
+     text-align: right;
+}
+#colocartextoIntro{
+    margin-top: 45%;
+}
+.textoIntro{
+    font-size:1.8em;
+    text-align: left;
+}
+
+.logopie{
+    margin-top:2px;
+}
+.creadoPor{
+    display:inline;
+     margin-left:4px;
+}
+.logoyterminos{
+   position:fixed;
+   margin:auto;
+   padding-left: 40%;
+   padding-right: 40%;
+}
+
+#barraTerminos{
+    display:block;
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    padding-bottom:30px;
+    width:100%;
+    text-align:center;
+    min-height:60px;
+    background-color: #F8F8F8;
+    color:#333333;
+    
+}
+
+
+/* css aviso de cookies */
+#barraaceptacion {
+    display:none;
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    padding-bottom:30px;
+    width:100%;
+    text-align:center;
+    min-height:50px;
+    background-color: #000000;
+    color:#fff;
+    z-index:99999;
+}
+ 
+.inner {
+    width:100%;
+    position:absolute;
+    padding-left:5px;
+    font-family:verdana;
+    font-size:12px;
+    top:30%;
+}
+ 
+.inner a.ok {
+    padding:4px;
+    color:#00ff2e;
+    text-decoration:none;
+}
+ 
+.inner a.info {
+    padding-left:5px;
+    text-decoration:none;
+    color:#faff00;
+}
+
+
+
+
+
+
+/*
+The MIT License
+
+Copyright 2016 isaac.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
+/* 
+    Created on : 26-may-2016, 21:02:19
+    Author     : isaac
+*/
+
